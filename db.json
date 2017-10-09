@@ -1,150 +1,267 @@
-{"results":[
 {
-    "concertInformation": {
-        "date": "19 de noviembre",
-        "place" : "Madrid",
-        "endPoint" : "Teatro Real",
-        "ticketsPurchase" : [{
-            "entradas.com" : "http://www.entradas.com/pastora-soler-entradas.html?affiliate=EES&doc=artistPages/tickets&fun=artist&action=tickets&kuid=495589",
-            "tiketmaster" : "https://www.ticketmaster.es/artist/pastora-soler-entradas/879086?language=es-es",
-            "elcorteingles" : "https://www.elcorteingles.es/entradas/search?Ntt=pastora+soler&department_nicename=entradas"
-        }]
-    },"lastAlbum": {
+    "concerts": [
+        {
+            "date": "2017/11/19",
+            "time": "21:30",
+            "city" : "Madrid",
+            "place" : "Teatro Real",
+            "ticketsPurchase" : [{
+                "entradas.com" : "http://www.entradas.com/pastora-soler-entradas.html?affiliate=EES&doc=artistPages/tickets&fun=artist&action=tickets&kuid=495589",
+                "tiketmaster" : "https://www.ticketmaster.es/artist/pastora-soler-entradas/879086?language=es-es",
+                "elcorteingles" : "https://www.elcorteingles.es/entradas/search?Ntt=pastora+soler&department_nicename=entradas"
+            }]
+        },
+        {
+            "date": "2017/12/08",
+            "time": "21:30",
+            "city" : "Málaga",
+            "place" : "Teatro Cervantes",
+            "ticketsPurchase" : [{
+                "entradas.com" : "http://www.entradas.com/pastora-soler-entradas.html?affiliate=EES&doc=artistPages/tickets&fun=artist&action=tickets&kuid=495589",
+                "tiketmaster" : "https://www.ticketmaster.es/artist/pastora-soler-entradas/879086?language=es-es",
+                "elcorteingles" : "https://www.elcorteingles.es/entradas/search?Ntt=pastora+soler&department_nicename=entradas"
+            }]
+        },
+        {
+            "date": "2018/01/11",
+            "time": "21:30",
+            "city" : "Murcia",
+            "place" : "Auditorio y Centro de Congresos Victor Villegas",
+            "ticketsPurchase" : [{
+                "entradas.com" : "http://www.entradas.com/pastora-soler-entradas.html?affiliate=EES&doc=artistPages/tickets&fun=artist&action=tickets&kuid=495589",
+                "tiketmaster" : "https://www.ticketmaster.es/artist/pastora-soler-entradas/879086?language=es-es",
+                "elcorteingles" : "https://www.elcorteingles.es/entradas/search?Ntt=pastora+soler&department_nicename=entradas"
+            }]
+        }
+    ],
+    "lastAlbum": {
         "title":"La Calma",
         "links" : {
             "itunes" : "https://itunes.apple.com/es/album/la-calma/id1265174898",
             "spotify" : "https://open.spotify.com/user/1153200606/playlist/4gY8mrdOksG1s6KXTMICzC",
             "amazon" : "https://www.amazon.es/Calma-Edición-Firmada-Pastora-Soler/dp/B074K8D24Z"
-        }
-    },"discography" : [
+        },"songs": [
+            {
+                "id": 1,
+                "title": "Vuelves a la vida"
+            },
+            {
+                "id": 2,
+                "title": "La tormenta"
+            },
+            {
+                "id": 3,
+                "title": "Ni una más"
+            },
+            {
+                "id": 4,
+                "title": "Perdóname"
+            },
+            {
+                "id": 5,
+                "title": "Si tú me abrazas"
+            },
+            {
+                "id": 6,
+                "title": "Será mejor"
+            },
+            {
+                "id": 7,
+                "title": "Contigo"
+            },
+            {
+                "id": 8,
+                "title": "No te atrevas a olvidarme"
+            },
+            {
+                "id": 9,
+                "title": "Ya no siento nada"
+            },
+            {
+                "id": 10,
+                "title": "Invencible"
+            },
+            {
+                "id": 11,
+                "title": "Estrella"
+            }
+        
+        ]
+    },
+    "discography" : [
         {   
+            "id": 1,
             "title": "Nuestras coplas",
             "year" : "1994",
+            "image": "",
             "links" :{
                 "itunes":"https://itunes.apple.com/es/album/nuestras-coplas/id39867783",
                 "spotify": "https://open.spotify.com/album/4IDZWeLHYKjBOP19QbvHGE",
                 "amazon" : "https://www.amazon.es/Nuestras-Coplas-Pastora-Soler/dp/B00006L6EP"
             }
-        },{   
+        },{ 
+            "id": 2,  
             "title": "El mundo que soñé",
             "year" : "1996",
+            "image": "",
             "links" :{
                 "itunes":"https://itunes.apple.com/es/album/nuestras-coplas/id39867783",
                 "spotify": "https://open.spotify.com/album/4IDZWeLHYKjBOP19QbvHGE",
                 "amazon" : "https://www.amazon.es/Nuestras-Coplas-Pastora-Soler/dp/B00006L6EP"
             }
-        },{   
+        },{ 
+            "id": 3,  
             "title": "Fuente De Luna",
             "year" : "1999",
+            "image": "",
             "links" :{
                 "itunes":"https://itunes.apple.com/es/album/fuente-de-luna/id693761131",
                 "spotify": "https://open.spotify.com/album/1bV2WdtgUySao3BOIZXAre",
                 "amazon" : "https://www.amazon.es/Fuente-Luna-Pastora-Soler/dp/B00004S2OZ"
             }
-        },{   
+        },{ 
+            "id": 4,  
             "title": "Corazon congelado",
             "year" : "2001",
+            "image": "",
             "links" :{
                 "itunes":"https://itunes.apple.com/es/album/corazón-congelado/id692355040",
                 "spotify": "https://open.spotify.com/album/7rBoIXlhaXs9kQtZUl3lOj",
                 "amazon" : "https://www.amazon.es/Corazon-Congelado-Pastora-Soler/dp/B008QEHSSO"
             }
-        },{   
+        },{ 
+            "id": 5,  
             "title": "Deseo",
             "year" : "2002",
+            "image": "",
             "links" :{
                 "itunes":"https://itunes.apple.com/es/album/deseo/id693783891",
                 "spotify": "https://open.spotify.com/album/4pPtswpi3XkLdquj3vGctA",
                 "amazon" : "https://www.amazon.es/Deseo-Pastora-Soler/dp/B01K8NEMQ6"
             }
-        },{   
+        },{ 
+            "id": 6,  
             "title": "Pastora Soler",
             "year" : "2005",
+            "image": "",
             "links" :{
                 "itunes":"https://itunes.apple.com/es/album/deseo/id693783891",
                 "spotify": "https://open.spotify.com/album/4pPtswpi3XkLdquj3vGctA",
                 "amazon" : "https://www.amazon.es/Pastora-Soler/dp/B000LZ5I3S/ref=sr_1_11?s=music&ie=UTF8&qid=1507190347&sr=1-11"
             }
-        },{   
+        },{ 
+            "id": 7,  
             "title": "Toda mi verdad",
             "year" : "2007",
+            "image": "",
             "links" :{
                 "itunes":"https://itunes.apple.com/es/album/deseo/id693783891",
                 "spotify": "https://open.spotify.com/album/4pPtswpi3XkLdquj3vGctA",
                 "amazon" : "https://www.amazon.es/Toda-Mi-Verdad-Pastora-Soler/dp/B000SQD0OE"
             }
-        },{   
+        },{ 
+            "id": 8,  
             "title": "Bendita Locura",
             "year" : "2009",
+            "image": "",
             "links" :{
                 "itunes":"https://itunes.apple.com/es/album/bendita-locura/id312435121",
                 "spotify": "https://open.spotify.com/user/beita.ceuta/playlist/5AwZpHl1GxFd3vkK2gs8rC",
                 "amazon" : "https://www.amazon.es/Pastora-Soler-Bendita-locura-CDs-vinilos/s?ie=UTF8&page=1&rh=n%3A599373031%2Ck%3APastora%20Soler%20-%20Bendita%20locura"
             }
-        },{   
+        },{ 
+            "id": 9,  
             "title": "Una mujer como yo",
             "year" : "2011",
+            "image": "",
             "links" :{
                 "itunes":"https://itunes.apple.com/nz/album/una-mujer-como-yo-eurov%C3%ADsión/id511720927",
                 "spotify": "https://open.spotify.com/album/31ST6aLORrPkxJBBQ0W2Xt",
                 "amazon" : "https://www.amazon.es/Una-Mujer-Como-Pastora-Soler/dp/B005TQA7EY"
             }
-        },{   
+        },{ 
+            "id": 10,  
             "title": "Conóceme",
             "year" : "2013",
+            "image": "",
             "links" :{
                 "itunes":"https://itunes.apple.com/es/album/conóceme/id688625075",
                 "spotify": "https://open.spotify.com/user/119446827/playlist/0T3I8C3MnAixUPNNLlP5eT",
                 "amazon" : "https://www.amazon.es/Conóceme-Pastora-Soler/dp/B00EWJ3Z52"
             }
         }
-    ],"media":{
-        "videos":[
+    ],
+    "videos":[
+    {
+        "url": "https://www.youtube.com/watch?v=C30fQ5BpnEY",
+        "thumbnail": "https://s1.postimg.org/6fox2benwf/pastora1.jpg"
+    },{
+        "url": "https://www.youtube.com/watch?v=W7y1pvW60ng",
+        "thumbnail": "https://s1.postimg.org/6fox2benwf/pastora1.jpg"    
+    },{
+        "url": "https://www.youtube.com/watch?v=pkyTh-Qpkl8",
+        "thumbnail": "https://s1.postimg.org/6fox2benwf/pastora1.jpg"    
+    }],
+    "images": [
         {
-            "url": "https://www.youtube.com/watch?v=C30fQ5BpnEY",
-            "thumbnail": "http://ourserver.com/images/thumb1.png"
+            "url":"https://s1.postimg.org/6fox2benwf/pastora1.jpg",
+            "thumbnai": "https://s1.postimg.org/4uz62uhgfv/pastora1.jpg"
         },{
-            "url": "https://www.youtube.com/watch?v=W7y1pvW60ng",
-            "thumbnail": "http://ourserver.com/images/thumb1.png"    
+            "url":"https://s1.postimg.org/2ecxnxfaan/pastora10.jpg",
+            "thumbnai": "https://s1.postimg.org/1ewuarcj4r/pastora10.jpg"
         },{
-            "url": "http://",
-            "thumbnail": "http://"    
-        }],
-        "images": [
-            {
-                "url":"http://",
-                "thumbnai": "http://"
-            },{
-                "url":"http://",
-                "thumbnai": "http://"
-            },{
-                "url":"http://",
-                "thumbnai": "http://"
-            },{
-                "url":"http://",
-                "thumbnai": "http://"
-            },{
-                "url":"http://",
-                "thumbnai": "http://"
-            },{
-                "url":"http://",
-                "thumbnai": "http://"
-            }
-        ]
-    }, "social":{
+            "url":"https://s1.postimg.org/1ewuarcqun/pastora11.jpg",
+            "thumbnai": "https://s1.postimg.org/23q3us09uz/pastora11.jpg"
+        },{
+            "url":"https://s1.postimg.org/4rfk54tiwv/pastora12.jpg",
+            "thumbnai": "https://s1.postimg.org/3ofuu8xp17/pastora12.jpg"
+        },{
+            "url":"https://s1.postimg.org/4uz62ulj1r/pastora13.jpg",
+            "thumbnai": "https://s1.postimg.org/14a0hlwnu3/pastora13.jpg"
+        },{
+            "url":"https://s1.postimg.org/7blehrozhr/pastora2.jpg",
+            "thumbnai": "https://s1.postimg.org/1m0266ulyj/pastora2.jpg"
+        },{
+            "url":"https://s1.postimg.org/5uf9g0ms73/pastora3.jpg",
+            "thumbnai": "https://s1.postimg.org/3ofuu8v4fv/pastora3.jpg"
+        },{
+            "url":"https://s1.postimg.org/17tmfbog9b/pastora4.jpg",
+            "thumbnai": "https://s1.postimg.org/8i4pqdg18r/pastora4.jpg"
+        },{
+            "url":"https://s1.postimg.org/74i6mc5mdb/pastora5.jpg",
+            "thumbnai": "https://s1.postimg.org/1igg8h4bjv/pastora5.jpg["
+        },{
+            "url":"https://s1.postimg.org/6xeyqwhjhr/pastora6.jpg",
+            "thumbnai": "https://s1.postimg.org/14a0hlu38r/pastora6.jpg"
+        },{
+            "url":"https://s1.postimg.org/7pru8mysdb/pastora7.jpg",
+            "thumbnai": "https://s1.postimg.org/9oo0yz4aor/pastora7.jpg"
+        },{
+            "url":"https://s1.postimg.org/1bd8d1hqov/pastora8.jpg",
+            "thumbnai": "https://s1.postimg.org/2hwjln6na3/pastora8.jpg"
+        },{
+            "url":"https://s1.postimg.org/8wb5h8q1u7/pastora9.jpg",
+            "thumbnai": "https://s1.postimg.org/9e175trfez/pastora9.jpg"
+        }
+    ],
+    "social":{
         "twitter":{
-
+            "url": "https://twitter.com/PastoraSoler"
         },
         "facebook":{
-
+            "url": "https://www.facebook.com/PastoraSoler1/"
         }
     },"aboutArtist":{
         "biography" : "https://www.buscabiografias.com/biografia/verDetalle/7846/Pastora%20Soler",
         "linkToDiscography" : "http://www.lahiguera.net/musicalia/artistas/pastora_soler/discos.php",
-        "linkToWikiPedia":"https://es.wikipedia.org/wiki/Pastora_Soler"
-    },"events":{
-        "nextEvents" : "",
-        "soonEvents" : ""
-    }
-    }    
-]}
+        "linkToWikiPedia":"https://es.wikipedia.org/wiki/Pastora_Soler",
+        "text": ""
+    },"nextEvents":[
+        {
+            "date": "2017/12/01",
+            "description": "Firma de discos",
+            "place": "ECI Sevilla",
+            "url": ""
+        }
+    ]    
+}
