@@ -36,6 +36,7 @@
     ],
     "lastAlbum": {
         "title":"La Calma",
+        "text": "",
         "links" : {
             "itunes" : "https://itunes.apple.com/es/album/la-calma/id1265174898",
             "spotify" : "https://open.spotify.com/user/1153200606/playlist/4gY8mrdOksG1s6KXTMICzC",
@@ -93,7 +94,10 @@
             "id": 1,
             "title": "Nuestras coplas",
             "year" : "1994",
-            "image": "",
+            "images": [
+                { "url": "" },
+                { "url": "" }
+            ],
             "links" :{
                 "itunes":"https://itunes.apple.com/es/album/nuestras-coplas/id39867783",
                 "spotify": "https://open.spotify.com/album/4IDZWeLHYKjBOP19QbvHGE",
@@ -103,7 +107,10 @@
             "id": 2,  
             "title": "El mundo que soñé",
             "year" : "1996",
-            "image": "",
+            "images": [
+                { "url": "" },
+                { "url": "" }
+            ],
             "links" :{
                 "itunes":"https://itunes.apple.com/es/album/nuestras-coplas/id39867783",
                 "spotify": "https://open.spotify.com/album/4IDZWeLHYKjBOP19QbvHGE",
@@ -113,7 +120,10 @@
             "id": 3,  
             "title": "Fuente De Luna",
             "year" : "1999",
-            "image": "",
+            "images": [
+                { "url": "" },
+                { "url": "" }
+            ],
             "links" :{
                 "itunes":"https://itunes.apple.com/es/album/fuente-de-luna/id693761131",
                 "spotify": "https://open.spotify.com/album/1bV2WdtgUySao3BOIZXAre",
@@ -123,7 +133,10 @@
             "id": 4,  
             "title": "Corazon congelado",
             "year" : "2001",
-            "image": "",
+            "images": [
+                { "url": "" },
+                { "url": "" }
+            ],
             "links" :{
                 "itunes":"https://itunes.apple.com/es/album/corazón-congelado/id692355040",
                 "spotify": "https://open.spotify.com/album/7rBoIXlhaXs9kQtZUl3lOj",
@@ -133,7 +146,10 @@
             "id": 5,  
             "title": "Deseo",
             "year" : "2002",
-            "image": "",
+            "images": [
+                { "url": "" },
+                { "url": "" }
+            ],
             "links" :{
                 "itunes":"https://itunes.apple.com/es/album/deseo/id693783891",
                 "spotify": "https://open.spotify.com/album/4pPtswpi3XkLdquj3vGctA",
@@ -143,7 +159,10 @@
             "id": 6,  
             "title": "Pastora Soler",
             "year" : "2005",
-            "image": "",
+            "images": [
+                { "url": "" },
+                { "url": "" }
+            ],
             "links" :{
                 "itunes":"https://itunes.apple.com/es/album/deseo/id693783891",
                 "spotify": "https://open.spotify.com/album/4pPtswpi3XkLdquj3vGctA",
@@ -153,7 +172,10 @@
             "id": 7,  
             "title": "Toda mi verdad",
             "year" : "2007",
-            "image": "",
+            "images": [
+                { "url": "" },
+                { "url": "" }
+            ],
             "links" :{
                 "itunes":"https://itunes.apple.com/es/album/deseo/id693783891",
                 "spotify": "https://open.spotify.com/album/4pPtswpi3XkLdquj3vGctA",
@@ -163,7 +185,10 @@
             "id": 8,  
             "title": "Bendita Locura",
             "year" : "2009",
-            "image": "",
+            "images": [
+                { "url": "" },
+                { "url": "" }
+            ],
             "links" :{
                 "itunes":"https://itunes.apple.com/es/album/bendita-locura/id312435121",
                 "spotify": "https://open.spotify.com/user/beita.ceuta/playlist/5AwZpHl1GxFd3vkK2gs8rC",
@@ -173,7 +198,10 @@
             "id": 9,  
             "title": "Una mujer como yo",
             "year" : "2011",
-            "image": "",
+            "images": [
+                { "url": "" },
+                { "url": "" }
+            ],
             "links" :{
                 "itunes":"https://itunes.apple.com/nz/album/una-mujer-como-yo-eurov%C3%ADsión/id511720927",
                 "spotify": "https://open.spotify.com/album/31ST6aLORrPkxJBBQ0W2Xt",
@@ -183,7 +211,10 @@
             "id": 10,  
             "title": "Conóceme",
             "year" : "2013",
-            "image": "",
+            "images": [
+                { "url": "" },
+                { "url": "" }
+            ],
             "links" :{
                 "itunes":"https://itunes.apple.com/es/album/conóceme/id688625075",
                 "spotify": "https://open.spotify.com/user/119446827/playlist/0T3I8C3MnAixUPNNLlP5eT",
