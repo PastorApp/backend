@@ -5,33 +5,33 @@
             "time": "21:30",
             "city" : "Madrid",
             "place" : "Teatro Real",
-            "ticketsPurchase" : [{
+            "ticketsPurchase" : {
                 "entradas.com" : "http://www.entradas.com/pastora-soler-entradas.html?affiliate=EES&doc=artistPages/tickets&fun=artist&action=tickets&kuid=495589",
                 "tiketmaster" : "https://www.ticketmaster.es/artist/pastora-soler-entradas/879086?language=es-es",
                 "elcorteingles" : "https://www.elcorteingles.es/entradas/search?Ntt=pastora+soler&department_nicename=entradas"
-            }]
+            }
         },
         {
             "date": "2017/12/08",
             "time": "21:30",
             "city" : "Málaga",
             "place" : "Teatro Cervantes",
-            "ticketsPurchase" : [{
+            "ticketsPurchase" : {
                 "entradas.com" : "http://www.entradas.com/pastora-soler-entradas.html?affiliate=EES&doc=artistPages/tickets&fun=artist&action=tickets&kuid=495589",
                 "tiketmaster" : "https://www.ticketmaster.es/artist/pastora-soler-entradas/879086?language=es-es",
                 "elcorteingles" : "https://www.elcorteingles.es/entradas/search?Ntt=pastora+soler&department_nicename=entradas"
-            }]
+            }
         },
         {
             "date": "2018/01/11",
             "time": "21:30",
             "city" : "Murcia",
             "place" : "Auditorio y Centro de Congresos Victor Villegas",
-            "ticketsPurchase" : [{
+            "ticketsPurchase" : {
                 "entradas.com" : "http://www.entradas.com/pastora-soler-entradas.html?affiliate=EES&doc=artistPages/tickets&fun=artist&action=tickets&kuid=495589",
                 "tiketmaster" : "https://www.ticketmaster.es/artist/pastora-soler-entradas/879086?language=es-es",
                 "elcorteingles" : "https://www.elcorteingles.es/entradas/search?Ntt=pastora+soler&department_nicename=entradas"
-            }]
+            }
         }
     ],
     "lastAlbum": {
